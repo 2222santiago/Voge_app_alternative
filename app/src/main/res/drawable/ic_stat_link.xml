@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono de notificación: una «V» con dos ondas de enlace. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M4,6h3l5,10l5,-10h3l-7,14h-2z" />
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M8.5,3.2a7,7 0,0 1,7 0l-0.8,1.4a5.4,5.4 0,0 0,-5.4 0z" />
+</vector>

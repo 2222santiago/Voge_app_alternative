@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VogeLink</string>
+    <string name="listener_label">VogeLink: navegación al cuadro</string>
+    <string name="channel_link">Conexión con la moto</string>
+    <string name="action_stop">Detener</string>
+    <string name="channel_alerts">Avisos antes de salir</string>
+    <string name="alert_nav_title">Google Maps no está conectado</string>
+    <string name="alert_bike_title">Moto detectada: %1$s</string>
+    <string name="alert_bike_text">Toca para conectar y ver el panel.</string>
+</resources>
